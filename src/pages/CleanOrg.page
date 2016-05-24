@@ -1,0 +1,5 @@
+<apex:page controller="CleanOrgController">
+    <apex:form >
+    	<apex:commandButton action="{!CleantheOrg}" value="Clean" />
+    </apex:form>
+</apex:page>
